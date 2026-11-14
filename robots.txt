@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Host & Sitemap specification for search indexing
+Host: https://chargexo.com
+Sitemap: https://chargexo.com/sitemap.xml
